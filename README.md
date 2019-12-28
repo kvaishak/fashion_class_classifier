@@ -13,7 +13,7 @@ The Neural Network is trained on a dataset consisting of 60,000 Training and 10,
 * Matplot - for Data visualization
 * Seaburn - for Statistical Data visualization
 * SKLearn - for splitting the testing-training dataset
-* Keras - 
+* Keras - Neural network library for deploying the Neural Network
 
 ### Source of Training data-set
 * **[FashionMNIST dataset](https://www.kaggle.com/zalando-research/fashionmnist/data)** containing 60,000 training and 10,000 testing Image data in Black and White format.
