@@ -1,8 +1,8 @@
 # Fashion_class_classifier
 
-Using **Convolutional Neural Network** accurately classify clothing and other fashion items from their images.
+Using **Convolutional Neural Network** to accurately classify clothing and other fashion items from their images.
 
-The Neural Network is trained on a dataset consisting of 60,000 Training and 10,000 Testing dataset in the form of Black and White image pixel points of dimensions [28 x 28]. After training and optimizing the model using variety of techniques, the final Neural model was able to reach an 94.42% with a test accuracy of 91.8%. Click [here](https://github.com/vaishak47/fashion_class_classifier/blob/master/fashion_classifier.ipynb) to visualise the classification.
+The Neural Network is trained on a dataset consisting of 60,000 Training and 10,000 Testing dataset in the form of Black and White image pixel points of dimensions [28 x 28]. After training and optimizing the model using variety of techniques, the final Neural model was able to reach an accuracy of **94.42%** and a test accuracy of **91.8%**. Click [here](https://github.com/vaishak47/fashion_class_classifier/blob/master/fashion_classifier.ipynb) to visualise the classification.
 
 ### Tools Used
 * Jupiter Notebook - for coding and visualizing the data
@@ -32,13 +32,13 @@ The Neural Network is trained on a dataset consisting of 60,000 Training and 10,
 
 ### Accuracy Obtained
 After deploying the above mentioned optimization techniques, the following accuracy rates where obtained.
-1. 32 kernal without dropout:
+* 32 kernal without dropout:
     - Accuracy : 0.9585
     - Test Accuracy: 0.912
-2. 64 kernal without dropout
+* 64 kernal without dropout
     - Accuracy : 0.9641
     - Test Accuracy : 0.915
-3. 64 kernal with dropout
+* 64 kernal with dropout
     - Accuracy : 0.9442
     - Test Accuracy : 0.918
 
