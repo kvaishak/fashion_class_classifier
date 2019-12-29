@@ -29,6 +29,7 @@ The Neural Network is trained on a dataset consisting of 60,000 Training and 10,
 ### Improving the accuracy of the model by 
 * Adding more feature detectors/kernals.
 * Using Dropout thereby decreasing the co-dependency of the neuron, hence introducing more generalization.
+* By increasing the Epoch count.
 
 ### Accuracy Obtained
 After deploying the above mentioned optimization techniques, the following accuracy rates where obtained.
